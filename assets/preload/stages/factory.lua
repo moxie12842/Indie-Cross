@@ -1,0 +1,23 @@
+function onCreate()
+  --background
+  makeLuaSprite('bg','bendy/inky depths',-600,-800)
+  scaleObject('bg', 2, 2)
+  makeLuaSprite('mid','bendy/MidGround',-600,-800)
+  scaleObject('mid', 2, 2)
+  makeLuaSprite('fg','bendy/Foreground',-600,-400)
+  scaleObject('fg', 2, 2)
+  makeLuaSprite('nuts','bendy/NUTS',-600,-550)
+  scaleObject('nuts', 4, 4)
+  makeLuaSprite('chains','bendy/Chains',-600,-600)
+  scaleObject('chains', 4, 4)
+  makeAnimatedLuaSprite('sammy','bendy/SammyBg',600,50)
+  addAnimationByPrefix('sammy','idle','Sam',24,true)
+  objectPlayAnimation('sammy','idle',true)
+  addLuaSprite('bg',false)
+  addLuaSprite('sammy',false)
+  addLuaSprite('mid',false)
+  addLuaSprite('fg',true)
+  addLuaSprite('chains',true)
+  addLuaSprite('nuts',false)
+  close(true);
+  end
