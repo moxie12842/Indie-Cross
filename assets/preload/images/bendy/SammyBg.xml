@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SammyBg.png">
+<SubTexture name="Sam instance 10000" x="1211" y="0" width="303" height="672" frameX="-7" frameY="-10" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10001" x="1211" y="0" width="303" height="672" frameX="-7" frameY="-9" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10002" x="908" y="0" width="303" height="676" frameX="-7" frameY="-6" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10003" x="908" y="0" width="303" height="676" frameX="-7" frameY="-5" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10004" x="606" y="0" width="302" height="680" frameX="-8" frameY="-3" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10005" x="606" y="0" width="302" height="680" frameX="-8" frameY="-2" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10006" x="303" y="0" width="303" height="681" frameX="-8" frameY="-1" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10007" x="303" y="0" width="303" height="681" frameX="-8" frameY="-1" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10008" x="0" y="0" width="303" height="682" frameX="-8" frameY="0" frameWidth="315" frameHeight="683" />
+<SubTexture name="Sam instance 10009" x="0" y="0" width="303" height="682" frameX="-8" frameY="0" frameWidth="315" frameHeight="683" />
+</TextureAtlas>
