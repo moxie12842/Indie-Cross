@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="NMB.png">
+<SubTexture name="DeathBendy instance 10000" x="2756" y="595" width="615" height="580" frameX="-53" frameY="-67" frameWidth="708" frameHeight="652" />
+<SubTexture name="DeathBendy instance 10001" x="2756" y="1175" width="616" height="576" frameX="-52" frameY="-71" frameWidth="708" frameHeight="652" />
+<SubTexture name="DeathBendy instance 10002" x="0" y="2173" width="672" height="593" frameX="-32" frameY="-54" frameWidth="708" frameHeight="652" />
+<SubTexture name="DeathBendy instance 10003" x="2756" y="0" width="627" height="595" frameX="-52" frameY="-52" frameWidth="708" frameHeight="652" />
+<SubTexture name="DeathBendy instance 10004" x="1958" y="670" width="627" height="645" frameX="-31" frameY="-1" frameWidth="708" frameHeight="652" />
+<SubTexture name="Down instance 10000" x="2577" y="2766" width="655" height="503" frameX="-16" frameY="-31" frameWidth="685" frameHeight="546" />
+<SubTexture name="Down instance 10001" x="2477" y="2173" width="608" height="519" frameX="-33" frameY="-20" frameWidth="685" frameHeight="546" />
+<SubTexture name="Down instance 10002" x="3383" y="0" width="618" height="487" frameX="-21" frameY="-43" frameWidth="685" frameHeight="546" />
+<SubTexture name="Down instance 10003" x="1933" y="2766" width="644" height="513" frameX="-29" frameY="-12" frameWidth="685" frameHeight="546" />
+<SubTexture name="FUCK YOU instance 10000" x="981" y="2766" width="952" height="526" frameX="-79" frameY="-148" frameWidth="1082" frameHeight="683" />
+<SubTexture name="FUCK YOU instance 10001" x="815" y="1517" width="907" height="638" frameX="0" frameY="-36" frameWidth="1082" frameHeight="683" />
+<SubTexture name="FUCK YOU instance 10002" x="1958" y="0" width="798" height="670" frameX="-160" frameY="-4" frameWidth="1082" frameHeight="683" />
+<SubTexture name="FUCK YOU instance 10003" x="644" y="771" width="774" height="674" frameX="-88" frameY="0" frameWidth="1082" frameHeight="683" />
+<SubTexture name="Left instance 10000" x="0" y="3331" width="1066" height="469" frameX="-16" frameY="-183" frameWidth="1087" frameHeight="662" />
+<SubTexture name="Left instance 10001" x="1697" y="2173" width="780" height="587" frameX="-189" frameY="-69" frameWidth="1087" frameHeight="662" />
+<SubTexture name="Left instance 10002" x="1722" y="1517" width="772" height="622" frameX="-114" frameY="-34" frameWidth="1087" frameHeight="662" />
+<SubTexture name="Left instance 10003" x="0" y="1517" width="815" height="656" frameX="-114" frameY="0" frameWidth="1087" frameHeight="662" />
+<SubTexture name="Up instance 10000" x="662" y="0" width="650" height="767" frameX="-7" frameY="-36" frameWidth="697" frameHeight="813" />
+<SubTexture name="Up instance 10001" x="0" y="771" width="644" height="746" frameX="-38" frameY="-43" frameWidth="697" frameHeight="813" />
+<SubTexture name="Up instance 10002" x="0" y="0" width="662" height="771" frameX="-20" frameY="-18" frameWidth="697" frameHeight="813" />
+<SubTexture name="Up instance 10003" x="1312" y="0" width="646" height="751" frameX="-36" frameY="-38" frameWidth="697" frameHeight="813" />
+<SubTexture name="bye bitch instance 10000" x="672" y="2173" width="1025" height="593" frameX="0" frameY="-34" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10001" x="0" y="2766" width="981" height="565" frameX="-14" frameY="-60" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10002" x="1066" y="3331" width="885" height="405" frameX="-45" frameY="-217" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10003" x="1951" y="3331" width="718" height="221" frameX="-94" frameY="-396" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10004" x="1958" y="1315" width="715" height="193" frameX="-109" frameY="-423" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10005" x="2669" y="3331" width="721" height="163" frameX="-125" frameY="-451" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10006" x="3383" y="487" width="481" height="98" frameX="-142" frameY="-514" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10007" x="3383" y="585" width="441" height="61" frameX="-160" frameY="-550" frameWidth="1033" frameHeight="631" />
+<SubTexture name="bye bitch instance 10008" x="3864" y="487" width="86" height="18" frameX="-180" frameY="-552" frameWidth="1033" frameHeight="631" />
+</TextureAtlas>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Bendy_run_Dark.png">
+<SubTexture name="Bendy Run instance 10000" x="0" y="1885" width="838" height="402" frameX="0" frameY="0" frameWidth="847" frameHeight="433" />
+<SubTexture name="Bendy Run instance 10001" x="1515" y="1469" width="608" height="405" frameX="-114" frameY="-24" frameWidth="847" frameHeight="433" />
+<SubTexture name="Bendy Run instance 10002" x="1434" y="1885" width="526" height="384" frameX="-203" frameY="-42" frameWidth="847" frameHeight="433" />
+<SubTexture name="Bendy Run instance 10003" x="783" y="1469" width="732" height="406" frameX="-108" frameY="-26" frameWidth="847" frameHeight="433" />
+<SubTexture name="Bendy Run instance 10004" x="0" y="1469" width="783" height="416" frameX="-59" frameY="-16" frameWidth="847" frameHeight="433" />
+<SubTexture name="Dowwn instance 10000" x="778" y="2287" width="763" height="322" frameX="-20" frameY="-17" frameWidth="783" frameHeight="386" />
+<SubTexture name="Dowwn instance 10001" x="0" y="2287" width="778" height="353" frameX="0" frameY="-3" frameWidth="783" frameHeight="386" />
+<SubTexture name="Dowwn instance 10002" x="2505" y="760" width="658" height="374" frameX="-114" frameY="-9" frameWidth="783" frameHeight="386" />
+<SubTexture name="Dowwn instance 10003" x="2505" y="1134" width="622" height="364" frameX="-149" frameY="-14" frameWidth="783" frameHeight="386" />
+<SubTexture name="Dowwn instance 10004" x="2505" y="384" width="667" height="376" frameX="-107" frameY="-9" frameWidth="783" frameHeight="386" />
+<SubTexture name="Leftr instance 10000" x="1907" y="0" width="598" height="448" frameX="-30" frameY="-2" frameWidth="628" frameHeight="497" />
+<SubTexture name="Leftr instance 10001" x="618" y="996" width="595" height="461" frameX="0" frameY="-6" frameWidth="628" frameHeight="497" />
+<SubTexture name="Leftr instance 10002" x="1271" y="481" width="580" height="480" frameX="-30" frameY="-14" frameWidth="628" frameHeight="497" />
+<SubTexture name="Leftr instance 10003" x="1213" y="996" width="481" height="461" frameX="-129" frameY="-30" frameWidth="628" frameHeight="497" />
+<SubTexture name="Leftr instance 10004" x="0" y="506" width="557" height="490" frameX="-62" frameY="-7" frameWidth="628" frameHeight="497" />
+<SubTexture name="Right instance 10000" x="2505" y="1498" width="701" height="361" frameX="-20" frameY="-7" frameWidth="721" frameHeight="415" />
+<SubTexture name="Right instance 10001" x="2505" y="0" width="702" height="384" frameX="0" frameY="-1" frameWidth="721" frameHeight="415" />
+<SubTexture name="Right instance 10002" x="1907" y="448" width="594" height="400" frameX="-109" frameY="-12" frameWidth="721" frameHeight="415" />
+<SubTexture name="Right instance 10003" x="838" y="1885" width="596" height="393" frameX="-102" frameY="-16" frameWidth="721" frameHeight="415" />
+<SubTexture name="Right instance 10004" x="1907" y="848" width="569" height="395" frameX="-132" frameY="-12" frameWidth="721" frameHeight="415" />
+<SubTexture name="Upp instance 10000" x="557" y="506" width="640" height="488" frameX="0" frameY="-11" frameWidth="654" frameHeight="529" />
+<SubTexture name="Upp instance 10001" x="634" y="0" width="637" height="502" frameX="-17" frameY="-24" frameWidth="654" frameHeight="529" />
+<SubTexture name="Upp instance 10002" x="0" y="996" width="618" height="473" frameX="-35" frameY="-50" frameWidth="654" frameHeight="529" />
+<SubTexture name="Upp instance 10003" x="1271" y="0" width="636" height="481" frameX="-17" frameY="-40" frameWidth="654" frameHeight="529" />
+<SubTexture name="Upp instance 10004" x="0" y="0" width="634" height="506" frameX="-17" frameY="-23" frameWidth="654" frameHeight="529" />
+</TextureAtlas>
