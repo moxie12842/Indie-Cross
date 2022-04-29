@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sans.png">
+<SubTexture name="Saness instance 10000" x="0" y="0" width="1314" height="720" frameX="0" frameY="-26" frameWidth="1321" frameHeight="754" />
+</TextureAtlas>
