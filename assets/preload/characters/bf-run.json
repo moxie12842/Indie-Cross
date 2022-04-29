@@ -3,17 +3,6 @@
 		{
 			"loop": false,
 			"offsets": [
-				-5,
-				0
-			],
-			"anim": "idle",
-			"fps": 24,
-			"name": "BF idle dance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
 				7,
 				19
 			],
@@ -78,7 +67,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				-4,
 				0
@@ -100,7 +89,7 @@
 			"indices": []
 		},
 		{
-			"loop": true,
+			"loop": false,
 			"offsets": [
 				37,
 				5
@@ -144,63 +133,74 @@
 			"indices": []
 		},
 		{
-			"loop": false,
-			"offsets": [
-				23,
-				-3
-			],
-			"anim": "singLEFT",
-			"fps": 24,
-			"name": "BF NOTE LEFT instance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-25,
-				-39
-			],
-			"anim": "singDOWN",
-			"fps": 24,
-			"name": "BF NOTE DOWN instance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-53,
-				56
-			],
-			"anim": "singUP",
-			"fps": 24,
-			"name": "BF NOTE UP instance",
-			"indices": []
-		},
-		{
-			"loop": false,
-			"offsets": [
-				-40,
-				3
-			],
-			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "BF NOTE RIGHT instance",
-			"indices": []
-		},
-		{
 			"offsets": [
 				1085,
 				-8
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "attack",
-			"loop": false,
+			"indices": [],
 			"name": "0BF att"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "idle",
+			"loop": true,
+			"name": "Run_cycle instance"
+		},
+		{
+			"offsets": [
+				0,
+				-1
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Leftt"
+		},
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Down instance"
+		},
+		{
+			"offsets": [
+				-1,
+				-1
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Up instance"
+		},
+		{
+			"offsets": [
+				0,
+				-2
+			],
+			"indices": [],
+			"fps": 36,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Rightt"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/BOYFRIEND",
+	"image": "characters/NM_run_bf",
 	"position": [
 		0,
 		350

@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				104,
+				182
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-96,
+				211
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down  instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				26,
+				421
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-94,
+				243
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Right instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-38,
+				177
+			],
+			"loop": false,
+			"anim": "hit",
+			"fps": 24,
+			"name": "Dodgez instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-111,
+				320
+			],
+			"loop": false,
+			"anim": "Hadoken",
+			"fps": 24,
+			"name": "Hadoken or Roundabout instance 1",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-141,
+				17
+			],
+			"anim": "Beam",
+			"fps": 24,
+			"name": "Beamm instance 1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				298
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "Idle instance 1"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Nightmare_Cuphead",
+	"position": [
+		0,
+		400
+	],
+	"healthicon": "cupn",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		102
+	],
+	"camera_position": [
+		-110,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.5
+}

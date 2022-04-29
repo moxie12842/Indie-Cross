@@ -146,8 +146,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				23,
-				-3
+				16,
+				-1
 			],
 			"anim": "singLEFT",
 			"fps": 24,
@@ -157,8 +157,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-25,
-				-39
+				-26,
+				-25
 			],
 			"anim": "singDOWN",
 			"fps": 24,
@@ -168,8 +168,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-53,
-				56
+				-37,
+				38
 			],
 			"anim": "singUP",
 			"fps": 24,
@@ -179,8 +179,8 @@
 		{
 			"loop": false,
 			"offsets": [
-				-40,
-				3
+				-29,
+				1
 			],
 			"anim": "singRIGHT",
 			"fps": 24,
@@ -192,10 +192,10 @@
 				1085,
 				-8
 			],
-			"indices": [],
+			"loop": false,
 			"fps": 24,
 			"anim": "attack",
-			"loop": false,
+			"indices": [],
 			"name": "0BF att"
 		}
 	],
@@ -213,9 +213,9 @@
 		209
 	],
 	"camera_position": [
-		560,
+		360,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 1
+	"scale": 0.7
 }
