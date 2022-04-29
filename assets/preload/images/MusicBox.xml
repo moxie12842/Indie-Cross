@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MusicBox.png">
+<SubTexture name="Music box thingy instance 10000" x="1280" y="0" width="320" height="656" frameX="0" frameY="-20" frameWidth="320" frameHeight="676" />
+<SubTexture name="Music box thingy instance 10001" x="960" y="0" width="320" height="664" frameX="0" frameY="-12" frameWidth="320" frameHeight="676" />
+<SubTexture name="Music box thingy instance 10002" x="640" y="0" width="320" height="668" frameX="0" frameY="-8" frameWidth="320" frameHeight="676" />
+<SubTexture name="Music box thingy instance 10003" x="320" y="0" width="320" height="672" frameX="0" frameY="-4" frameWidth="320" frameHeight="676" />
+<SubTexture name="Music box thingy instance 10004" x="0" y="0" width="320" height="674" frameX="0" frameY="-2" frameWidth="320" frameHeight="676" />
+</TextureAtlas>

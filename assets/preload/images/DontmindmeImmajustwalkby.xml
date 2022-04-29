@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="DontmindmeImmajustwalkby.png"><SubTexture name="WalkinFhis instance 0000" x="506" y="0" width="463" height="883" frameX="-804" frameY="-20" frameWidth="2650" frameHeight="911" />
+<SubTexture name="WalkinFhis instance 0001" x="0" y="0" width="506" height="884" frameX="-851" frameY="-27" frameWidth="2650" frameHeight="911" />
+<SubTexture name="WalkinFhis instance 0002" x="969" y="0" width="545" height="882" frameX="-891" frameY="-11" frameWidth="2650" frameHeight="911" />
+<SubTexture name="WalkinFhis instance 0003" x="1514" y="0" width="564" height="882" frameX="-935" frameY="-5" frameWidth="2650" frameHeight="911" />
+<SubTexture name="WalkinFhis instance 0004" x="0" y="884" width="606" height="880" frameX="-1010" frameY="0" frameWidth="2650" frameHeight="911" />
+<SubTexture name="WalkinFhis instance 0005" x="606" y="884" width="650" height="880" frameX="-1044" frameY="0" frameWidth="2650" frameHeight="911" />
+<SubTexture name="WalkinFhis instance 0006" x="1256" y="884" width="691" height="879" frameX="-1078" frameY="0" frameWidth="2650" frameHeight="911" />
+</TextureAtlas>

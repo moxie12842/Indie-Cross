@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Candles.png">
+<SubTexture name="Candless instance 10000" x="760" y="213" width="613" height="167" frameX="0" frameY="-1" frameWidth="613" frameHeight="168" />
+<SubTexture name="Candless instance 10001" x="760" y="380" width="613" height="167" frameX="0" frameY="-1" frameWidth="613" frameHeight="168" />
+<SubTexture name="Candless instance 10002" x="0" y="664" width="613" height="166" frameX="0" frameY="-2" frameWidth="613" frameHeight="168" />
+<SubTexture name="Lights instance 10000" x="0" y="0" width="760" height="226" frameX="-11" frameY="-10" frameWidth="780" frameHeight="247" />
+<SubTexture name="Lights instance 10001" x="0" y="451" width="744" height="213" frameX="-18" frameY="-17" frameWidth="780" frameHeight="247" />
+<SubTexture name="Lights instance 10002" x="0" y="226" width="759" height="225" frameX="-11" frameY="-11" frameWidth="780" frameHeight="247" />
+<SubTexture name="Lights instance 10003" x="760" y="0" width="744" height="213" frameX="-18" frameY="-17" frameWidth="780" frameHeight="247" />
+</TextureAtlas>

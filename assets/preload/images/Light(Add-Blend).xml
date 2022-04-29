@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Light(Add-Blend).png">
+<SubTexture name="fezt instance 10000" x="0" y="0" width="764" height="388" frameX="0" frameY="0" frameWidth="764" frameHeight="1551" />
+<SubTexture name="fezt instance 10001" x="764" y="0" width="764" height="388" frameX="-1" frameY="0" frameWidth="764" frameHeight="1551" />
+<SubTexture name="fezt instance 10002" x="0" y="0" width="764" height="388" frameX="0" frameY="0" frameWidth="764" frameHeight="1551" />
+<SubTexture name="fezt instance 10003" x="0" y="388" width="764" height="388" frameX="-1" frameY="0" frameWidth="764" frameHeight="1551" />
+</TextureAtlas>

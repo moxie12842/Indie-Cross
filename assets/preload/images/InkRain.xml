@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="InkRain.png">
+<SubTexture name="erteyd instance 10000" x="0" y="0" width="865" height="540" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+<SubTexture name="erteyd instance 10001" x="865" y="1080" width="852" height="539" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+<SubTexture name="erteyd instance 10002" x="865" y="0" width="865" height="540" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+<SubTexture name="erteyd instance 10003" x="0" y="540" width="865" height="540" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+<SubTexture name="erteyd instance 10004" x="865" y="540" width="865" height="540" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+<SubTexture name="erteyd instance 10005" x="0" y="1080" width="865" height="540" frameX="0" frameY="0" frameWidth="865" frameHeight="540" />
+</TextureAtlas>
