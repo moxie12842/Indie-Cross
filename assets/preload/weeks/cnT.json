@@ -1,0 +1,50 @@
+{
+	"storyName": "Jake & Finn The Human...?",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"quiet",
+			"finn",
+			[
+				173,
+				191,
+				202
+			]
+		],
+		[
+			"my brother",
+			"jake",
+			[
+				255,
+				255,
+				51
+			]
+		],
+		[
+			"brothers in arms",
+			"brothers",
+			[
+				173,
+				191,
+				202
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "week1"
+}
