@@ -1,0 +1,31 @@
+{
+	"songs": [
+		[
+			"Shootout",
+			"thegang",
+			[
+				175,
+				67,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard, Hard, Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Elementary Meetup",
+	"weekName": "Shootout",
+	"freeplayColor": [
+		15,
+		7,
+		0
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
