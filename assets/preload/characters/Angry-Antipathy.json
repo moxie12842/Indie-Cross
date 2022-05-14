@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-177,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootLEFT",
+			"indices": [],
+			"name": "RR Hank Shoot Left"
+		},
+		{
+			"offsets": [
+				-189,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootRIGHT",
+			"indices": [],
+			"name": "RR Hank Shoot Right"
+		},
+		{
+			"offsets": [
+				-178,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootDOWN",
+			"indices": [],
+			"name": "RR Hank Shoot Left"
+		},
+		{
+			"offsets": [
+				-192,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shootUP",
+			"indices": [],
+			"name": "RR Hank Shoot Right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "RR MHank Idle"
+		},
+		{
+			"offsets": [
+				-15,
+				52
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "RR MHank Left"
+		},
+		{
+			"offsets": [
+				30,
+				61
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RR MHank Right"
+		},
+		{
+			"offsets": [
+				23,
+				81
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "RR MHank Up"
+		},
+		{
+			"offsets": [
+				7,
+				18
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "RR MHank Down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Angry-Antipathy-Hank",
+	"position": [
+		-160,
+		250
+	],
+	"healthicon": "hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-400,
+		-10
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
