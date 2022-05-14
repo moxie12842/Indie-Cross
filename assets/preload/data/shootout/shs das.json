@@ -1,0 +1,639 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "Alley",
+		"player1": "bf",
+		"player2": "sopico",
+		"player3": null,
+		"events": [
+			[
+				7406.25,
+				[
+					[
+						"",
+						"",
+						""
+					]
+				]
+			],
+			[
+				25429.6875,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				25511.71875,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				25968.75,
+				[
+					[
+						"Play Animation",
+						"pre-attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				26039.0625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				27003.90625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				27566.40625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				30750,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				31875,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				33375,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				34503.90625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				35066.40625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				37503.90625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				38625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				41250,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				41628.90625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				42003.90625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				44066.40625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				48003.90625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				55500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				56062.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				56625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				58500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				58875,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				61312.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				62625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				66000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				70500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				70781.25,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				71625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				79500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				81000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				84000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				87000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				88500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				89062.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				89625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				93093.75,
+				[
+					[
+						"noteskinchangeOPPT",
+						"nenenotes",
+						""
+					]
+				]
+			],
+			[
+				93562.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				94500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				98437.5,
+				[
+					[
+						"Play Animation",
+						"iseeyou",
+						"Dad"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"noteskinchangeOPPT",
+						"darnotes",
+						""
+					]
+				]
+			],
+			[
+				132093.75,
+				[
+					[
+						"noteskinchangeOPPT",
+						"normnotes",
+						""
+					]
+				]
+			],
+			[
+				154500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				154781.25,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				155062.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				159000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				160500,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				160781.25,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				161062.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				161250,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				161437.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				161625,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				161812.5,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				162562.5,
+				[
+					[
+						"noteskinchangeOPPT",
+						"nenenotes",
+						""
+					]
+				]
+			],
+			[
+				165000,
+				[
+					[
+						"Play Animation",
+						"attack",
+						"Dad"
+					]
+				]
+			],
+			[
+				170812.5,
+				[
+					[
+						"noteskinchangeOPPT",
+						"darnotes",
+						""
+					]
+				]
+			],
+			[
+				176906.25,
+				[
+					[
+						"noteskinchangeOPPT",
+						"nenenotes",
+						""
+					]
+				]
+			],
+			[
+				182906.25,
+				[
+					[
+						"noteskinchangeOPPT",
+						"darnotes",
+						""
+					]
+				]
+			],
+			[
+				188906.25,
+				[
+					[
+						"noteskinchangeOPPT",
+						"normnotes",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "nene",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Shootout"
+	}
+}
